@@ -9,7 +9,7 @@ https://assignment-dashboard-beta.vercel.app
 Email- eve.holt@reqres.in
 Password- cityslicka
 
-Follow these steps to run the project locally:
+##Follow these steps to run the project locally:
 
 1. **Clone the repository**:
    ```bash
