@@ -3,9 +3,9 @@
 This React application integrates with the Reqres API to perform basic user management functions, including authentication, listing users, editing user details, and deleting users.
 
 ## Installation and Setup
-Run the project on Vercel using the given link :
+### Run the project on Vercel using the given link :
 https://assignment-dashboard-beta.vercel.app
-Login using the given Email and Password to continue
+### Login using the given Email and Password to continue
 Email- eve.holt@reqres.in
 Password- cityslicka
 
